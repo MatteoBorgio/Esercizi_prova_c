@@ -10,5 +10,6 @@ int main() {
   } else {
     printf("\nIl numero è dispari.");
   }
+
   return 0;
 }
